@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **giorgosandronikidis@hotmail.com**
 
-- 📄 Know about my experiences [http://linkedin.com/in/geor…](http://linkedin.com/in/geor…)
+- 📄 Learn about my experiences [http://linkedin.com/in/geor…](http://linkedin.com/in/geor…)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
