@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Andronikidis</h1>
 <h3 align="center">A passionate Data Scientist / Machine Learning enthousiast from Greece</h3>
 
-- 🌱 I’m currently learning **Natural Language Processing and Recommender Systems**
+- 🌱 I’m currently learning **Federated Learning and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [http://github.com/georgeandr](http://github.com/georgeandr)
 
