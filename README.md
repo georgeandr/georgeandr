@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧑‍💻 About Georgios Andronikidis
 
-Georgios is a passionate Machine Learning Engineer and researcher with a focus on driving technological advancements. Here's a glimpse into the technologies and tools he's experienced with and currently exploring: 
+George is a passionate Machine Learning Engineer and researcher with a focus on driving technological advancements. Here's a glimpse into the technologies and tools he's experienced with and currently exploring: 
 
 💻 Programming & Tools
 * 🐍 Python (Pandas, Scikit-learn, TensorFlow, FastAPI, Firebase_Admin)
@@ -22,7 +22,7 @@ Georgios is a passionate Machine Learning Engineer and researcher with a focus o
 * 🌐 IoT, Natural Language Processing
 * 🏎️ Autonomous Driving
 
-Georgios is also active in academic research and has contributed to HORIZON2020 projects, authoring publications in AI and Blockchain fields.
+George is also active in academic research and has contributed to HORIZON2020 projects, authoring publications in AI and Blockchain fields.
 
 
 ## 🌐 Socials:
