@@ -14,8 +14,7 @@ George is a passionate Machine Learning Engineer and researcher with a focus on 
 * 📜 JavaScript, Node.js
 
 📱 Mobile Development
-
-⚛ React Native (iOS & Android)
+* React Native (iOS & Android)
 * Cross-platform Navigation
 * iOS & Android Development
 
