@@ -13,6 +13,11 @@ George is a passionate Machine Learning Engineer and researcher with a focus on 
 * 🌟 Material UI, Tailwind CSS
 * 📜 JavaScript, Node.js
 
+📱 Mobile Development
+⚛ React Native (iOS & Android)
+* Cross-platform Navigation
+* iOS & Android Development
+
 📊 Data Engineering
 * 🔗 MongoDB, Kafka
 * 🚀 REST APIs
