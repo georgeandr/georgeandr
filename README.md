@@ -5,7 +5,7 @@ George is a passionate Machine Learning Engineer and researcher with a focus on 
 
 💻 Programming & Tools
 * 🐍 Python (Pandas, Scikit-learn, TensorFlow, FastAPI, Firebase_Admin)
-* 🛠️ Bash, Git, Docker
+* 🛠️ Bash, Git, Docker, CI/CD (GitHub Actions and Digital Ocean)
 * 🔄 ETL/ELT Automation (SQL, AS400)
 
 🌐 Web Development
