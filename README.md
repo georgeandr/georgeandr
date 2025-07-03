@@ -7,6 +7,7 @@ George is a passionate Machine Learning Engineer and researcher with a focus on 
 * 🐍 Python (Pandas, Scikit-learn, TensorFlow, FastAPI, Firebase_Admin)
 * 🛠️ Bash, Git, Docker, CI/CD (GitHub Actions and Digital Ocean)
 * 🔄 ETL/ELT Automation (SQL, AS400)
+* 🔗 MongoDB, Kafka, PostgreSQL, gRPC
 
 🌐 Web Development
 * ⚛️ React
@@ -15,20 +16,13 @@ George is a passionate Machine Learning Engineer and researcher with a focus on 
 
 📱 Mobile Development
 * React Native (iOS & Android)
-* Cross-platform Navigation
-* iOS & Android Development
-
-📊 Data Engineering
-* 🔗 MongoDB, Kafka
-* 🚀 REST APIs
 
 🚗 Research Interests
 * 🤖 Machine Learning and Deep Learning
-* 🌐 IoT, Natural Language Processing
+* 🌐 Natural Language Processing
 * 🏎️ Autonomous Driving
 
 George is also active in academic research and has contributed to HORIZON2020 projects, authoring publications in AI and Blockchain fields.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/george-andronikidis) 
